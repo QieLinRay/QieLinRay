@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on two-stage stochastic planning
+- 🌱 I’m currently learning  B&P,CG,Benders
+- 👯 I’m looking to collaborate on OR!!
+- 🤔 I’m looking for help with MIP
+- 💬 Ask me about Gurobi
+
 
 <!--
 **QieLinRay/QieLinRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
