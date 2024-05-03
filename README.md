@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  B&P,CG,Benders
 - 👯 I’m looking to collaborate on OR!!
 - 🤔 I’m looking for help with MIP
-- 💬 Ask me about Gurobi
+- 💬 Ask me about Gurobi & CPLEX
 
 
 <!--
