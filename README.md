@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on OR!!
 - 🤔 I’m looking for help with MIP
 - 💬 Ask me about Gurobi & CPLEX
+- ✨ Study smarter, study more! Don't be sorry, be better!
 
 
 <!--
