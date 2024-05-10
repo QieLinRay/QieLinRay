@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on two-stage stochastic planning
-- 🌱 I’m currently learning  B&P,CG,Benders
+- 🌱 I’m currently learning  Arena,B&P,CG,Benders
 - 👯 I’m looking to collaborate on OR!!
 - 🤔 I’m looking for help with MIP
 - 💬 Ask me about Gurobi & CPLEX
