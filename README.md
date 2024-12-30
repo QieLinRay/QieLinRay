@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **continuous berth allocation problem**
+- 🔭 I’m currently working on **Convex**
 - 🌱 I’m currently learning  B&P,CG,Benders
 - 👯 I’m looking to collaborate on OR!!
 - 🤔 I’m looking for help with MIP
-- 💬 Ask me about Gurobi & CPLEX & Arena
+- 💬 Ask me about Gurobi & Arena
 - ✨ Study smarter, study more! Don't be sorry, be better!
 
 
