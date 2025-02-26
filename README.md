@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **MIP,LLM**
+- 🔭 I’m currently working on **MIP**
 - 🌱 I’m currently learning  B&P,CG,Benders
 - 👯 I’m looking to collaborate on OR!!
 - 🤔 I’m looking for help with MIP
